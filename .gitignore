@@ -1,0 +1,7 @@
+*.lst
+*.aux
+*.log
+*.out
+*.toc
+.DS_Store
+Thumbs.db
